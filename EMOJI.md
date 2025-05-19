@@ -8,6 +8,8 @@ Simply type the emoji code (e.g. `:smile:`) in chat, and it will be converted to
 ## Table of Contents
 - [Standard Emojis](#standard-emojis)
 - [Discord Emojis](#discord-emojis)
+- [Pepe Emojis](#pepe-emojis)
+- [WoW Emojis](#wow-emojis)
 - [Epoch Emojis](#epoch-emojis)
 - [Gnome Emojis](#gnome-emojis)
 - [Pony Emojis](#pony-emojis)
@@ -51,9 +53,12 @@ Simply type the emoji code (e.g. `:smile:`) in chat, and it will be converted to
 | Code | Preview |
 |------|---------|
 | `:5head:` | <img src="https://github.com/user-attachments/assets/3fbcc971-2a6a-482a-a665-a973c0fabc67" width="32" /> |
+| `:brain:` | <img src="https://github.com/user-attachments/assets/bf29ebed-ebfb-4e01-a42d-6a8ad1de1fd0" width="32" /> |
+| `:cuckcru:` | <img src="https://github.com/user-attachments/assets/9f879bc7-45f6-4607-b49a-7c8cd80c123e" width="32" /> |
 | `:crythumbsup:` | <img src="https://github.com/user-attachments/assets/a683a281-46c0-4d30-8ac1-97cf34011d4c" width="32" /> |
 | `:facepalm:` | <img src="https://github.com/user-attachments/assets/335ecc94-911c-4c5f-ba6f-17b0d4b46de0" width="32" /> |
 | `:gigachad:` | <img src="https://github.com/user-attachments/assets/a0899274-0bb2-453d-ab26-cef40c00eb2a" width="32" /> |
+| `:gorlock:` | <img src="https://github.com/user-attachments/assets/69fba69f-e289-43d9-aade-6ecf5e25115e" width="32" /> |
 | `:harold:` | <img src="https://github.com/user-attachments/assets/32ddc5cf-bfbf-4912-b9e9-30b3c6d56bfe" width="32" /> |
 | `:huh:` | <img src="https://github.com/user-attachments/assets/97d8bd94-b4eb-459c-a892-bb001c6cceab" width="32" /> |
 | `:jebaited:` | <img src="https://github.com/user-attachments/assets/4631dcfb-ce5f-411a-bf1a-05ff6a4c8ed9" width="32" /> |
@@ -65,7 +70,16 @@ Simply type the emoji code (e.g. `:smile:`) in chat, and it will be converted to
 | `:pogging:` | <img src="https://github.com/user-attachments/assets/18a02f00-7cb2-4444-b13b-7e4d1d5ad703" width="32" /> |
 | `:sadkitty:` | <img src="https://github.com/user-attachments/assets/38f3d2e7-21a3-4ebc-88da-541fb9bbfe72" width="32" /> |
 | `:shocked:` | <img src="https://github.com/user-attachments/assets/d7445259-5f6d-455f-a54c-402d51cf5e5a" width="32" /> |
+| `:thonkers:` | <img src="https://github.com/user-attachments/assets/9363b3a7-3223-4468-a7ec-238ebf090778" width="32" /> |
 | `:troll:` | <img src="https://github.com/user-attachments/assets/a250884e-3398-4433-a419-55ebe00040cf" width="32" /> |
+
+## Pepe Emojis
+| Code | Preview |
+|------|---------|
+| `:peepoalliance:` | <img src="https://github.com/user-attachments/assets/b5cd1e1a-4928-41a8-95f1-95bb127f9e7f" width="32" /> |
+| `:peepohorde:` | <img src="https://github.com/user-attachments/assets/d7aa51b3-5c96-4fed-9991-763835a6f5f1" width="32" /> |
+| `:pepepanties:` | <img src="https://github.com/user-attachments/assets/74601ff7-7663-42f1-bfa4-1a5d016a827a" width="32" /> |
+| `:pepepanties:` | <img src="https://github.com/user-attachments/assets/4768f18e-e3a2-42cb-9ab5-b3be121e85b7" width="32" /> |
 
 ## WoW Emojis
 
