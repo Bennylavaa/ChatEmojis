@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: |cFF00CCFFChat|r|cFFFF6600Emojis|r
+## Notes: Adds emoji support to chat
+## Author: Bennylavaa
+## Version: 1.0.0
+## SavedVariables: ChatEmojisDB
+
+Core.lua

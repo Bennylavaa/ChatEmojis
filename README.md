@@ -1,2 +1,13 @@
 # ChatEmojis
 Standalone Chat Emoji addon for 3.3.5
+
+### Installation
+1. Download **[Latest Version](https://github.com/Bennylavaa/ChatEmojis/archive/master.zip)**
+2. Unpack the Zip file
+3. Rename the folder "ChatEmojis-master" to "ChatEmojis"
+4. Copy "ChatEmojis" into Wow-Directory\Interface\AddOns
+5. Restart Wow
+
+## Contribute
+
+If you wish to add more emojis, feel free to contribute and send [Pull Requests](https://github.com/Bennylavaa/ChatEmojis/pulls).
