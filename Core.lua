@@ -170,11 +170,20 @@ function addon:SetupDefaultEmojis()
     self:AddSmiley(":wink:", self:TextureString(M..[[Emojis\Wink.tga]], x))
     self:AddSmiley(":zzz:", self:TextureString(M..[[Emojis\ZZZ.tga]], x))
 
+    -- Pepe Emojis
+    self:AddSmiley(":peepoalliance:", self:TextureString(M..[[PepeEmojis\PeepoAlliance.tga]], x))
+    self:AddSmiley(":peepohorde:", self:TextureString(M..[[PepeEmojis\PeepoHorde.tga]], x))
+    self:AddSmiley(":pepepanties:", self:TextureString(M..[[PepeEmojis\PepePanties.tga]], x))
+    self:AddSmiley(":pepewarlock:", self:TextureString(M..[[PepeEmojis\PepeWarlock.tga]], x))
+
     -- Discord Emojis
     self:AddSmiley(":5head:", self:TextureString(M..[[DiscordEmojis\5Head.tga]], x))
+    self:AddSmiley(":brain:", self:TextureString(M..[[DiscordEmojis\Brain.tga]], x))
     self:AddSmiley(":crythumbsup:", self:TextureString(M..[[DiscordEmojis\CryThumbsUp.tga]], x))
+    self:AddSmiley(":cuckcru:", self:TextureString(M..[[DiscordEmojis\CuckCru.tga]], x))
     self:AddSmiley(":facepalm:", self:TextureString(M..[[DiscordEmojis\Facepalm.tga]], x))
     self:AddSmiley(":gigachad:", self:TextureString(M..[[DiscordEmojis\GigaChad.tga]], x))
+    self:AddSmiley(":gorlock:", self:TextureString(M..[[DiscordEmojis\Gorlock.tga]], x))
     self:AddSmiley(":harold:", self:TextureString(M..[[DiscordEmojis\Harold.tga]], x))
     self:AddSmiley(":huh:", self:TextureString(M..[[DiscordEmojis\Huh.tga]], x))
     self:AddSmiley(":jebaited:", self:TextureString(M..[[DiscordEmojis\Jebaited.tga]], x))
@@ -186,6 +195,7 @@ function addon:SetupDefaultEmojis()
     self:AddSmiley(":pogging:", self:TextureString(M..[[DiscordEmojis\Pogging.tga]], x))
     self:AddSmiley(":sadkitty:", self:TextureString(M..[[DiscordEmojis\SadKitty.tga]], x))
     self:AddSmiley(":shocked:", self:TextureString(M..[[DiscordEmojis\Shocked.tga]], x))
+    self:AddSmiley(":thonkers:", self:TextureString(M..[[DiscordEmojis\Thonkers.tga]], x))
     self:AddSmiley(":troll:", self:TextureString(M..[[DiscordEmojis\Troll.tga]], x))
 
     -- Warcraft Emojis
