@@ -22,19 +22,15 @@ Simply type the emoji code (e.g. `:smile:`) in chat, and it will be converted to
 | `:broken_heart:` | <img src="https://github.com/user-attachments/assets/3f775aae-cfb4-41c6-b866-c90cd8525d65" width="32" /> |
 | `:call_me:` | <img src="https://github.com/user-attachments/assets/118bb98c-6d00-4801-a776-faf0a5da3227" width="32" /> |
 | `:cry:` | <img src="https://github.com/user-attachments/assets/8d5f305f-8857-4f33-8b11-674b62e1ab9c" width="32" /> |
-| `:facepalm:` | <img src="https://github.com/user-attachments/assets/335ecc94-911c-4c5f-ba6f-17b0d4b46de0" width="32" /> |
 | `:grin:` | <img src="https://github.com/user-attachments/assets/ad4b900a-a9ab-461e-8332-e649f63e5d2b" width="32" /> |
 | `:heart:` | <img src="https://github.com/user-attachments/assets/00ad6d46-97f3-4259-9379-8d6e871001f4" width="32" /> |
 | `:heart_eyes:` | <img src="https://github.com/user-attachments/assets/42fa03d3-8fba-4094-a1e3-d1bf85d2b743" width="32" /> |
 | `:joy:` | <img src="https://github.com/user-attachments/assets/dbb03d65-11b0-44c5-a862-82ff8050edeb" width="32" /> |
-| `:meaw:` | <img src="https://github.com/user-attachments/assets/4b0655fb-24e5-4064-8e4e-491d06f7ad68" width="32" /> |
 | `:middle_finger:` | <img src="https://github.com/user-attachments/assets/8fe94290-aa98-4d8b-8506-5a31b8308c38" width="32" /> |
-| `:murloc:` | <img src="https://github.com/user-attachments/assets/911120ea-4f66-4275-95d2-0fb7244b506e" width="32" /> |
 | `:ok_hand:` | <img src="https://github.com/user-attachments/assets/4ff0629a-a42c-4a34-b326-085a2d781d31" width="32" /> |
 | `:open_mouth:` | <img src="https://github.com/user-attachments/assets/8060d42c-a994-4d0a-9a31-9b781a9f9a5f" width="32" /> |
 | `:poop:` | <img src="https://github.com/user-attachments/assets/3b3d1771-0a8c-47c8-b542-bcbc28c0298e" width="32" /> |
 | `:rage:` | <img src="https://github.com/user-attachments/assets/e56ad050-19eb-40d9-8a6f-ef569a0a4b00" width="32" /> |
-| `:sadkitty:` | <img src="https://github.com/user-attachments/assets/38f3d2e7-21a3-4ebc-88da-541fb9bbfe72" width="32" /> |
 | `:scream:` | <img src="https://github.com/user-attachments/assets/00ac384c-db95-4c8d-bb11-a5298b99e8ae" width="32" /> |
 | `:scream_cat:` | <img src="https://github.com/user-attachments/assets/3cc6c378-be21-4114-93f7-149f1d0ebbbe" width="32" /> |
 | `:semi_colon:` | <img src="https://github.com/user-attachments/assets/eb086977-82aa-487c-a345-1461f4841b55" width="32" /> |
@@ -56,15 +52,18 @@ Simply type the emoji code (e.g. `:smile:`) in chat, and it will be converted to
 |------|---------|
 | `:5head:` | <img src="https://github.com/user-attachments/assets/3fbcc971-2a6a-482a-a665-a973c0fabc67" width="32" /> |
 | `:crythumbsup:` | <img src="https://github.com/user-attachments/assets/a683a281-46c0-4d30-8ac1-97cf34011d4c" width="32" /> |
+| `:facepalm:` | <img src="https://github.com/user-attachments/assets/335ecc94-911c-4c5f-ba6f-17b0d4b46de0" width="32" /> |
 | `:gigachad:` | <img src="https://github.com/user-attachments/assets/a0899274-0bb2-453d-ab26-cef40c00eb2a" width="32" /> |
 | `:harold:` | <img src="https://github.com/user-attachments/assets/32ddc5cf-bfbf-4912-b9e9-30b3c6d56bfe" width="32" /> |
 | `:huh:` | <img src="https://github.com/user-attachments/assets/97d8bd94-b4eb-459c-a892-bb001c6cceab" width="32" /> |
 | `:jebaited:` | <img src="https://github.com/user-attachments/assets/4631dcfb-ce5f-411a-bf1a-05ff6a4c8ed9" width="32" /> |
 | `:kappa:` | <img src="https://github.com/user-attachments/assets/8a63d874-7ca6-4c34-b096-d150132deeb3" width="32" /> |
 | `:kekw:` | <img src="https://github.com/user-attachments/assets/9324edcd-d01f-492b-8281-77c1b777c2a0" width="32" /> |
+| `:meaw:` | <img src="https://github.com/user-attachments/assets/4b0655fb-24e5-4064-8e4e-491d06f7ad68" width="32" /> |
 | `:pog:` | <img src="https://github.com/user-attachments/assets/370f6083-1cec-4571-9e91-88afcba46254" width="32" /> |
 | `:pogchamp:` | <img src="https://github.com/user-attachments/assets/0ba20d97-7766-4ee5-8e6f-5ae8104a2f0f" width="32" /> |
 | `:pogging:` | <img src="https://github.com/user-attachments/assets/18a02f00-7cb2-4444-b13b-7e4d1d5ad703" width="32" /> |
+| `:sadkitty:` | <img src="https://github.com/user-attachments/assets/38f3d2e7-21a3-4ebc-88da-541fb9bbfe72" width="32" /> |
 | `:shocked:` | <img src="https://github.com/user-attachments/assets/d7445259-5f6d-455f-a54c-402d51cf5e5a" width="32" /> |
 | `:troll:` | <img src="https://github.com/user-attachments/assets/a250884e-3398-4433-a419-55ebe00040cf" width="32" /> |
 
@@ -102,6 +101,7 @@ Simply type the emoji code (e.g. `:smile:`) in chat, and it will be converted to
 | `:maleundead:` | <img src="https://github.com/user-attachments/assets/3b676e1d-bb97-42cb-99e7-8ec65e4377de" width="32" /> |
 | `:metzen:` | <img src="https://github.com/user-attachments/assets/0dd9646f-78d8-4a6e-ac1d-d0f6aa44d690" width="32" /> |
 | `:moonkin:` | <img src="https://github.com/user-attachments/assets/97450309-b1e1-4c8c-989c-119df3ff13d4" width="32" /> |
+| `:murloc:` | <img src="https://github.com/user-attachments/assets/911120ea-4f66-4275-95d2-0fb7244b506e" width="32" /> |
 | `:omegawow:` | <img src="https://github.com/user-attachments/assets/a20c9d31-4795-4e27-8fe1-a1a8e458401f" width="32" /> |
 | `:paladin:` | <img src="https://github.com/user-attachments/assets/4aceba2c-9f54-4f76-bfac-1d0c2fe6f285" width="32" /> |
 | `:priest:` | <img src="https://github.com/user-attachments/assets/3a5575fe-b57c-4427-99d0-4c7162f59584" width="32" /> |
