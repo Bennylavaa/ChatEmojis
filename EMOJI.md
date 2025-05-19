@@ -17,57 +17,56 @@ Simply type the emoji code (e.g. `:smile:`) in chat, and it will be converted to
 
 | Code | Preview |
 |------|---------|
-| `:angry:` | ![Angry](https://github.com/user-attachments/assets/ab9b0d9f-4c15-4641-bc2b-96610ac8365d) |
-| `:blush:` | ![Blush](https://github.com/user-attachments/assets/afff7359-44cd-4c5a-9e10-8039367ae2b3) |
-| `:broken_heart:` | ![BrokenHeart](https://github.com/user-attachments/assets/3f775aae-cfb4-41c6-b866-c90cd8525d65) |
-| `:call_me:` | ![CallMe](https://github.com/user-attachments/assets/118bb98c-6d00-4801-a776-faf0a5da3227) |
-| `:cry:` | ![Cry](https://github.com/user-attachments/assets/8d5f305f-8857-4f33-8b11-674b62e1ab9c) |
-| `:facepalm:` | ![Facepalm](https://github.com/user-attachments/assets/335ecc94-911c-4c5f-ba6f-17b0d4b46de0) |
-| `:grin:` | ![Grin](https://github.com/user-attachments/assets/ad4b900a-a9ab-461e-8332-e649f63e5d2b) |
-| `:heart:` | ![Heart](https://github.com/user-attachments/assets/00ad6d46-97f3-4259-9379-8d6e871001f4) |
-| `:heart_eyes:` | ![HeartEyes](https://github.com/user-attachments/assets/42fa03d3-8fba-4094-a1e3-d1bf85d2b743) |
-| `:joy:` | ![Joy](https://github.com/user-attachments/assets/dbb03d65-11b0-44c5-a862-82ff8050edeb) |
-| `:kappa:` | ![Kappa](https://github.com/user-attachments/assets/0303e4b3-fe04-4927-95b1-5b59ccf7ee7f) |
-| `:meaw:` | ![Meaw](https://github.com/user-attachments/assets/4b0655fb-24e5-4064-8e4e-491d06f7ad68) |
-| `:middle_finger:` | ![MiddleFinger](https://github.com/user-attachments/assets/8fe94290-aa98-4d8b-8506-5a31b8308c38) |
-| `:murloc:` | ![Murloc](https://github.com/user-attachments/assets/911120ea-4f66-4275-95d2-0fb7244b506e) |
-| `:ok_hand:` | ![OkHand](https://github.com/user-attachments/assets/4ff0629a-a42c-4a34-b326-085a2d781d31) |
-| `:open_mouth:` | ![OpenMouth](https://github.com/user-attachments/assets/8060d42c-a994-4d0a-9a31-9b781a9f9a5f) |
-| `:poop:` | ![Poop](https://github.com/user-attachments/assets/3b3d1771-0a8c-47c8-b542-bcbc28c0298e) |
-| `:rage:` | ![Rage](https://github.com/user-attachments/assets/e56ad050-19eb-40d9-8a6f-ef569a0a4b00) |
-| `:sadkitty:` | ![SadKitty](https://github.com/user-attachments/assets/38f3d2e7-21a3-4ebc-88da-541fb9bbfe72) |
-| `:scream:` | ![Scream](https://github.com/user-attachments/assets/00ac384c-db95-4c8d-bb11-a5298b99e8ae) |
-| `:scream_cat:` | ![ScreamCat](https://github.com/user-attachments/assets/3cc6c378-be21-4114-93f7-149f1d0ebbbe) |
-| `:semi_colon:` | ![SemiColon](https://github.com/user-attachments/assets/eb086977-82aa-487c-a345-1461f4841b55) |
-| `:slight_frown:` | ![SlightFrown](https://github.com/user-attachments/assets/e289001e-90c7-48db-a5ae-298ebfa5e947) |
-| `:smile:` | ![Smile](https://github.com/user-attachments/assets/994e53b9-79db-470a-95cc-5720dab7e36a) |
-| `:smirk:` | ![Smirk](https://github.com/user-attachments/assets/7f1474a4-ab2b-4674-a349-649ec407509b) |
-| `:sob:` | ![Sob](https://github.com/user-attachments/assets/da17d2d0-aca1-456c-b668-0d4b8cbed107) |
-| `:stuck_out_tongue:` | ![StuckOutTongue](https://github.com/user-attachments/assets/c4201260-49db-4a9d-8973-44b2ffe7eb13) |
-| `:stuck_out_tongue_closed_eyes:` | ![StuckOutTongueClosedEyes](https://github.com/user-attachments/assets/3b38b006-63d2-4627-a92c-ae7a2c9e822a) |
-| `:sunglasses:` | ![Sunglasses](https://github.com/user-attachments/assets/57dfa5a4-e423-49c8-9014-ad0b938014ec) |
-| `:thinking:` | ![Thinking](https://github.com/user-attachments/assets/1c3ac322-acb1-412d-81bf-d0040c36dbc6) |
-| `:thumbs_up:` | ![ThumbsUp](https://github.com/user-attachments/assets/75e29522-48f8-415c-83b1-4aee020832fb) |
-| `:wink:` | ![Wink](https://github.com/user-attachments/assets/e8a047e1-5a94-47b6-a6be-5d620ef4b886) |
-| `:zzz:` | ![ZZZ](https://github.com/user-attachments/assets/90c2b622-641b-48b6-adc3-256a6f092ae8) |
+| `:angry:` | <img src="https://github.com/user-attachments/assets/ab9b0d9f-4c15-4641-bc2b-96610ac8365d" width="32" /> |
+| `:blush:` | <img src="https://github.com/user-attachments/assets/afff7359-44cd-4c5a-9e10-8039367ae2b3" width="32" /> |
+| `:broken_heart:` | <img src="https://github.com/user-attachments/assets/3f775aae-cfb4-41c6-b866-c90cd8525d65" width="32" /> |
+| `:call_me:` | <img src="https://github.com/user-attachments/assets/118bb98c-6d00-4801-a776-faf0a5da3227" width="32" /> |
+| `:cry:` | <img src="https://github.com/user-attachments/assets/8d5f305f-8857-4f33-8b11-674b62e1ab9c" width="32" /> |
+| `:facepalm:` | <img src="https://github.com/user-attachments/assets/335ecc94-911c-4c5f-ba6f-17b0d4b46de0" width="32" /> |
+| `:grin:` | <img src="https://github.com/user-attachments/assets/ad4b900a-a9ab-461e-8332-e649f63e5d2b" width="32" /> |
+| `:heart:` | <img src="https://github.com/user-attachments/assets/00ad6d46-97f3-4259-9379-8d6e871001f4" width="32" /> |
+| `:heart_eyes:` | <img src="https://github.com/user-attachments/assets/42fa03d3-8fba-4094-a1e3-d1bf85d2b743" width="32" /> |
+| `:joy:` | <img src="https://github.com/user-attachments/assets/dbb03d65-11b0-44c5-a862-82ff8050edeb" width="32" /> |
+| `:meaw:` | <img src="https://github.com/user-attachments/assets/4b0655fb-24e5-4064-8e4e-491d06f7ad68" width="32" /> |
+| `:middle_finger:` | <img src="https://github.com/user-attachments/assets/8fe94290-aa98-4d8b-8506-5a31b8308c38" width="32" /> |
+| `:murloc:` | <img src="https://github.com/user-attachments/assets/911120ea-4f66-4275-95d2-0fb7244b506e" width="32" /> |
+| `:ok_hand:` | <img src="https://github.com/user-attachments/assets/4ff0629a-a42c-4a34-b326-085a2d781d31" width="32" /> |
+| `:open_mouth:` | <img src="https://github.com/user-attachments/assets/8060d42c-a994-4d0a-9a31-9b781a9f9a5f" width="32" /> |
+| `:poop:` | <img src="https://github.com/user-attachments/assets/3b3d1771-0a8c-47c8-b542-bcbc28c0298e" width="32" /> |
+| `:rage:` | <img src="https://github.com/user-attachments/assets/e56ad050-19eb-40d9-8a6f-ef569a0a4b00" width="32" /> |
+| `:sadkitty:` | <img src="https://github.com/user-attachments/assets/38f3d2e7-21a3-4ebc-88da-541fb9bbfe72" width="32" /> |
+| `:scream:` | <img src="https://github.com/user-attachments/assets/00ac384c-db95-4c8d-bb11-a5298b99e8ae" width="32" /> |
+| `:scream_cat:` | <img src="https://github.com/user-attachments/assets/3cc6c378-be21-4114-93f7-149f1d0ebbbe" width="32" /> |
+| `:semi_colon:` | <img src="https://github.com/user-attachments/assets/eb086977-82aa-487c-a345-1461f4841b55" width="32" /> |
+| `:slight_frown:` | <img src="https://github.com/user-attachments/assets/e289001e-90c7-48db-a5ae-298ebfa5e947" width="32" /> |
+| `:smile:` | <img src="https://github.com/user-attachments/assets/994e53b9-79db-470a-95cc-5720dab7e36a" width="32" /> |
+| `:smirk:` | <img src="https://github.com/user-attachments/assets/7f1474a4-ab2b-4674-a349-649ec407509b" width="32" /> |
+| `:sob:` | <img src="https://github.com/user-attachments/assets/da17d2d0-aca1-456c-b668-0d4b8cbed107" width="32" /> |
+| `:stuck_out_tongue:` | <img src="https://github.com/user-attachments/assets/c4201260-49db-4a9d-8973-44b2ffe7eb13" width="32" /> |
+| `:stuck_out_tongue_closed_eyes:` | <img src="https://github.com/user-attachments/assets/3b38b006-63d2-4627-a92c-ae7a2c9e822a" width="32" /> |
+| `:sunglasses:` | <img src="https://github.com/user-attachments/assets/57dfa5a4-e423-49c8-9014-ad0b938014ec" width="32" /> |
+| `:thinking:` | <img src="https://github.com/user-attachments/assets/1c3ac322-acb1-412d-81bf-d0040c36dbc6" width="32" /> |
+| `:thumbs_up:` | <img src="https://github.com/user-attachments/assets/75e29522-48f8-415c-83b1-4aee020832fb" width="32" /> |
+| `:wink:` | <img src="https://github.com/user-attachments/assets/e8a047e1-5a94-47b6-a6be-5d620ef4b886" width="32" /> |
+| `:zzz:` | <img src="https://github.com/user-attachments/assets/90c2b622-641b-48b6-adc3-256a6f092ae8" width="32" /> |
 
 ## Discord Emojis
 
 | Code | Preview |
 |------|---------|
-| `:5head:` | IMG |
-| `:crythumbsup:` | IMG |
-| `:gigachad:` | IMG |
-| `:harold:` | IMG |
-| `:huh:` | IMG |
-| `:jebaited:` | IMG |
-| `:kappa:` | IMG |
-| `:kekw:` | IMG |
-| `:pog:` | IMG |
-| `:pogchamp:` | IMG |
-| `:pogging:` | IMG |
-| `:shocked:` | IMG |
-| `:troll:` | IMG |
+| `:5head:` | <img src="https://github.com/user-attachments/assets/3fbcc971-2a6a-482a-a665-a973c0fabc67" width="32" /> |
+| `:crythumbsup:` | <img src="https://github.com/user-attachments/assets/a683a281-46c0-4d30-8ac1-97cf34011d4c" width="32" /> |
+| `:gigachad:` | <img src="https://github.com/user-attachments/assets/a0899274-0bb2-453d-ab26-cef40c00eb2a" width="32" /> |
+| `:harold:` | <img src="https://github.com/user-attachments/assets/32ddc5cf-bfbf-4912-b9e9-30b3c6d56bfe" width="32" /> |
+| `:huh:` | <img src="https://github.com/user-attachments/assets/97d8bd94-b4eb-459c-a892-bb001c6cceab" width="32" /> |
+| `:jebaited:` | <img src="https://github.com/user-attachments/assets/4631dcfb-ce5f-411a-bf1a-05ff6a4c8ed9" width="32" /> |
+| `:kappa:` | <img src="https://github.com/user-attachments/assets/8a63d874-7ca6-4c34-b096-d150132deeb3" width="32" /> |
+| `:kekw:` | <img src="https://github.com/user-attachments/assets/9324edcd-d01f-492b-8281-77c1b777c2a0" width="32" /> |
+| `:pog:` | <img src="https://github.com/user-attachments/assets/370f6083-1cec-4571-9e91-88afcba46254" width="32" /> |
+| `:pogchamp:` | <img src="https://github.com/user-attachments/assets/0ba20d97-7766-4ee5-8e6f-5ae8104a2f0f" width="32" /> |
+| `:pogging:` | <img src="https://github.com/user-attachments/assets/18a02f00-7cb2-4444-b13b-7e4d1d5ad703" width="32" /> |
+| `:shocked:` | <img src="https://github.com/user-attachments/assets/d7445259-5f6d-455f-a54c-402d51cf5e5a" width="32" /> |
+| `:troll:` | <img src="https://github.com/user-attachments/assets/a250884e-3398-4433-a419-55ebe00040cf" width="32" /> |
 
 ## Epoch Emojis
 
