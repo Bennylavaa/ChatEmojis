@@ -67,7 +67,7 @@ Simply type the emoji code (e.g. `:smile:`) in chat, and it will be converted to
 | `:shocked:` | <img src="https://github.com/user-attachments/assets/d7445259-5f6d-455f-a54c-402d51cf5e5a" width="32" /> |
 | `:troll:` | <img src="https://github.com/user-attachments/assets/a250884e-3398-4433-a419-55ebe00040cf" width="32" /> |
 
-## Epoch Emojis
+## WoW Emojis
 
 | Code | Preview |
 |------|---------|
@@ -113,6 +113,12 @@ Simply type the emoji code (e.g. `:smile:`) in chat, and it will be converted to
 | `:warcraft:` | <img src="https://github.com/user-attachments/assets/307da5ae-bfad-4d89-8511-21f7016a83a6" width="32" /> |
 | `:warlock:` | <img src="https://github.com/user-attachments/assets/8432c9ac-7d02-4dbe-abf1-fc899254fe08" width="32" /> |
 | `:warrior:` | <img src="https://github.com/user-attachments/assets/a76c6f6b-9b3f-4064-9d60-b3ea348b3885" width="32" /> |
+
+## Epoch Emojis
+
+| Code | Preview |
+|------|---------|
+| `:epog:` | <img src="https://github.com/user-attachments/assets/2eb4caba-fb7e-48de-93d4-ced7d783154e" width="32" /> |
 
 ## Gnome Emojis
 
