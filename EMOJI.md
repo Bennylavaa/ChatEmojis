@@ -130,45 +130,45 @@ Simply type the emoji code (e.g. `:smile:`) in chat, and it will be converted to
 | `:gnomecandleman:` | <img src="https://github.com/user-attachments/assets/02b9d4aa-5bbb-4e20-9df0-4e195d127dd2" width="32" /> |
 | `:gnomechad:` | <img src="https://github.com/user-attachments/assets/0654cde2-9e58-4d24-bd52-70d9c1063b71" width="32" /> |
 | `:gnomeclown:` | <img src="https://github.com/user-attachments/assets/3453dc32-f6a1-46b7-b3c5-2f055a2cc2bb" width="32" /> |
-| `:gnomedevil:` |  |
-| `:gnomedracula:` |  |
-| `:gnomedragonborn:` |  |
-| `:gnomedruid:` |  |
-| `:gnomeexistential:` |  |
-| `:gnomeexoticmonk:` |  |
-| `:gnomefelguard:` |  |
-| `:gnomeforsaken:` |  |
-| `:gnomegarithos:` |  |
-| `:gnomegoblin:` |  |
-| `:gnomegodfather:` |  |
-| `:gnomegon:` |  |
-| `:gnomeguts:` |  |
-| `:gnomehoplite:` |  |
-| `:gnomeillidan:` |  |
-| `:gnomeironman:` |  |
-| `:gnomejoker:` |  |
-| `:gnomejudge:` |  |
-| `:gnomekratos:` |  |
-| `:gnomeloki:` |  |
-| `:gnomemage:` |  |
-| `:gnomemanhattan:` |  |
-| `:gnomemario:` |  |
-| `:gnomemickey:` |  |
-| `:gnomemonk:` |  |
-| `:gnomenaga:` |  |
-| `:gnomeninja:` |  |
-| `:gnomeorc:` |  |
-| `:gnomeorochimaru:` |  |
-| `:gnomeshaman:` |  |
-| `:gnomesonic:` |  |
-| `:gnomespace:` |  |
-| `:gnomesquidward:` |  |
-| `:gnometemplar:` |  |
-| `:gnomethor:` |  |
-| `:gnometoji:` |  |
-| `:gnomeultramarine:` |  |
-| `:gnomewitcher:` |  |
-| `:gnomewolverine:` |  |
+| `:gnomedevil:` | <img src="https://github.com/user-attachments/assets/925fb13a-070d-4b04-b076-8b16d11f01fa" width="32" /> |
+| `:gnomedracula:` | <img src="https://github.com/user-attachments/assets/af5e9424-56e9-4aa3-91b7-d5bd9d936d7e" width="32" /> |
+| `:gnomedragonborn:` | <img src="https://github.com/user-attachments/assets/692c9985-efe3-44c3-91fe-2b23e7aa6c8e" width="32" /> |
+| `:gnomedruid:` | <img src="https://github.com/user-attachments/assets/93f3f7d8-db09-47dd-9012-d5e254e701df" width="32" /> |
+| `:gnomeexistential:` | <img src="https://github.com/user-attachments/assets/8c0cfd28-8ed6-4d44-a470-6e6b2c69625a" width="32" /> |
+| `:gnomeexoticmonk:` | <img src="https://github.com/user-attachments/assets/89b75738-90fd-40a0-aaa7-498fe84f0643" width="32" /> |
+| `:gnomefelguard:` | <img src="https://github.com/user-attachments/assets/d7667dc6-4b90-40f7-a304-5dcc02e5958b" width="32" /> |
+| `:gnomeforsaken:` | <img src="https://github.com/user-attachments/assets/7a7c5e8a-30f4-4631-a1f9-8fcc1b86f96d" width="32" /> |
+| `:gnomegarithos:` | <img src="https://github.com/user-attachments/assets/7f9c3aa6-9208-4c77-bc7c-b15ba553e0c8" width="32" /> |
+| `:gnomegoblin:` | <img src="https://github.com/user-attachments/assets/41f6c8c4-ae0d-49f4-8dfa-1cf0d8966e17" width="32" /> |
+| `:gnomegodfather:` | <img src="https://github.com/user-attachments/assets/6cc00c69-8a71-4ef9-b0bd-daa205faefaa" width="32" /> |
+| `:gnomegon:` | <img src="https://github.com/user-attachments/assets/7ab9ef93-10d3-4a52-b3a2-0db563d7ced4" width="32" /> |
+| `:gnomeguts:` | <img src="https://github.com/user-attachments/assets/5a881063-0626-46f9-81c2-6ad528c33eed" width="32" /> |
+| `:gnomehoplite:` | <img src="https://github.com/user-attachments/assets/278bbb8a-9cf1-45ca-8cf2-071032e6a707" width="32" /> |
+| `:gnomeillidan:` | <img src="https://github.com/user-attachments/assets/d586b8a2-07d6-436c-9345-e97197fff110" width="32" /> |
+| `:gnomeironman:` | <img src="https://github.com/user-attachments/assets/ea4bfb6a-dbcf-425d-b43e-86f9900e5b23" width="32" /> |
+| `:gnomejoker:` | <img src="https://github.com/user-attachments/assets/7e521af1-56f0-4237-b230-89e25cabad9f" width="32" /> |
+| `:gnomejudge:` | <img src="https://github.com/user-attachments/assets/51b8ede2-4722-4e7e-bb92-d387eb756849" width="32" /> |
+| `:gnomekratos:` | <img src="https://github.com/user-attachments/assets/edb2464a-790c-4b62-8c5a-f1e63d3ab02c" width="32" /> |
+| `:gnomeloki:` | <img src="https://github.com/user-attachments/assets/d7d93e05-1a88-49ac-a617-54419b197ec8" width="32" /> |
+| `:gnomemage:` | <img src="https://github.com/user-attachments/assets/418d1d41-a2b8-4c77-8aac-af469e57c16d" width="32" /> |
+| `:gnomemanhattan:` | <img src="https://github.com/user-attachments/assets/b14b1f92-2cf9-4f53-b066-5165dea5b0df" width="32" /> |
+| `:gnomemario:` | <img src="https://github.com/user-attachments/assets/1a552eaf-8c40-49a0-b27f-c5beb45c6a54" width="32" /> |
+| `:gnomemickey:` | <img src="https://github.com/user-attachments/assets/db6baef8-6789-4eee-b108-6a59f05647e5" width="32" /> |
+| `:gnomemonk:` | <img src="https://github.com/user-attachments/assets/8fd0cc9d-08e3-4037-8d9d-e02cb39261e0" width="32" /> |
+| `:gnomenaga:` | <img src="https://github.com/user-attachments/assets/5c3550d4-f363-468c-9749-d91b780a32eb" width="32" /> |
+| `:gnomeninja:` | <img src="https://github.com/user-attachments/assets/a15daf22-6ded-4d05-a61d-249f6f32a237" width="32" /> |
+| `:gnomeorc:` | <img src="https://github.com/user-attachments/assets/f5d1417e-c4af-4e33-8028-8f2218c22d83" width="32" /> |
+| `:gnomeorochimaru:` | <img src="https://github.com/user-attachments/assets/48aa137b-306e-4ef5-b6a1-edd33549ce87" width="32" /> |
+| `:gnomeshaman:` | <img src="https://github.com/user-attachments/assets/37f36f70-5e9b-4ef8-addf-02fff3a4309f" width="32" /> |
+| `:gnomesonic:` | <img src="https://github.com/user-attachments/assets/77e65380-5e9f-47cf-96e5-a98f37ac8a29" width="32" /> |
+| `:gnomespace:` | <img src="https://github.com/user-attachments/assets/ef8034e2-311c-449c-9300-6aec66829d1a" width="32" /> |
+| `:gnomesquidward:` | <img src="https://github.com/user-attachments/assets/eeeb438d-37a7-4a87-8c46-77d16e5ce6e1" width="32" /> |
+| `:gnometemplar:` | <img src="https://github.com/user-attachments/assets/33a877d5-0928-4b87-8ec4-2f2fb3acf0e3" width="32" /> |
+| `:gnomethor:` | <img src="https://github.com/user-attachments/assets/e7a8663b-18f1-4fba-ad2c-c7d5ce13cc79" width="32" /> |
+| `:gnometoji:` | <img src="https://github.com/user-attachments/assets/fe48ff88-f843-4556-9cff-aa165d71bdb5" width="32" /> |
+| `:gnomeultramarine:` | <img src="https://github.com/user-attachments/assets/7ff748af-d6a2-4cdb-a8ea-6a4e60b2f3ce" width="32" /> |
+| `:gnomewitcher:` | <img src="https://github.com/user-attachments/assets/49762ecc-fc94-4c7c-945f-403967acb5b4" width="32" /> |
+| `:gnomewolverine:` | <img src="https://github.com/user-attachments/assets/5dace8e6-e4eb-47de-bd02-d02de57de3ec" width="32" /> |
 
 ## Pony Emojis
 
