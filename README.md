@@ -10,6 +10,9 @@ Standalone Chat Emoji addon for 3.3.5
 4. Copy "ChatEmojis" into Wow-Directory\Interface\AddOns
 5. Restart Wow
 
+## ChatEmojis Reference Guide
+https://github.com/Bennylavaa/ChatEmojis/blob/main/EMOJI.md
+
 ## Contribute
 
 If you wish to add more emojis, feel free to contribute and send [Pull Requests](https://github.com/Bennylavaa/ChatEmojis/pulls).
