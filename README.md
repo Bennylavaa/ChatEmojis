@@ -11,3 +11,7 @@ Standalone Chat Emoji addon for 3.3.5
 ## Contribute
 
 If you wish to add more emojis, feel free to contribute and send [Pull Requests](https://github.com/Bennylavaa/ChatEmojis/pulls).
+
+## Elvui Version
+
+If you are using Elvui you can find a module version here: [ElvUI_ExtraEmojis](https://github.com/Bennylavaa/ElvUI_ExtraEmojis)
