@@ -72,105 +72,111 @@ Simply type the emoji code (e.g. `:smile:`) in chat, and it will be converted to
 
 | Code | Preview |
 |------|---------|
-| `:alliance:` | IMG |
-| `:disenchant:` | IMG |
-| `:druid:` | IMG |
-| `:epog:` | IMG |
-| `:feelshordeman:` | IMG |
-| `:femaledwarf:` | IMG |
-| `:femalegnome:` | IMG |
-| `:femalehuman:` | IMG |
-| `:femalenightelf:` | IMG |
-| `:femaleorc:` | IMG |
-| `:femaletauren:` | IMG |
-| `:femaletroll:` | IMG |
-| `:femaleundead:` | IMG |
-| `:gryphon:` | IMG |
-| `:hogger:` | IMG |
-| `:horde:` | IMG |
-| `:hunter:` | IMG |
-| `:kekdwarf:` | IMG |
-| `:mage:` | IMG |
-| `:maledwarf:` | IMG |
-| `:malegnome:` | IMG |
-| `:malehuman:` | IMG |
-| `:malenightelf:` | IMG |
-| `:malenightelf2:` | IMG |
-| `:maleorc:` | IMG |
-| `:maletauren:` | IMG |
-| `:maletroll:` | IMG |
-| `:maleundead:` | IMG |
-| `:metzen:` | IMG |
-| `:moonkin:` | IMG |
-| `:omegawow:` | IMG |
-| `:paladin:` | IMG |
-| `:priest:` | IMG |
-| `:rogue:` | IMG |
-| `:samwise:` | IMG |
-| `:shaman:` | IMG |
-| `:teldrachad:` | IMG |
-| `:uwutuskarr:` | IMG |
-| `:warcraft:` | IMG |
-| `:warlock:` | IMG |
-| `:warrior:` | IMG |
+| `:alliance:` | <img src="https://github.com/user-attachments/assets/0da90fcd-7b1a-4ec5-acc9-53932644a591" width="32" /> |
+| `:disenchant:` | <img src="https://github.com/user-attachments/assets/0e58165c-62ce-4aa0-9f9e-345a7eb3fcc1" width="32" /> |
+| `:druid:` | <img src="https://github.com/user-attachments/assets/0fef108e-e4c6-4be6-b9ab-d3145f08693c" width="32" /> |
+| `:epog:` | <img src="https://github.com/user-attachments/assets/2eb4caba-fb7e-48de-93d4-ced7d783154e" width="32" /> |
+| `:feelshordeman:` | <img src="https://github.com/user-attachments/assets/b0db3e9c-6a9f-4e9c-b541-0c828511effc" width="32" /> |
+| `:femaledwarf:` | <img src="https://github.com/user-attachments/assets/86c2911a-981c-4ee3-b9d9-42a1311e9127" width="32" /> |
+| `:femalegnome:` | <img src="https://github.com/user-attachments/assets/2e9c1dc8-4c94-46eb-9344-890f4708729a" width="32" /> |
+| `:femalehuman:` | <img src="https://github.com/user-attachments/assets/9bc7b864-5a90-4bab-b416-e055a37145c2" width="32" /> |
+| `:femalenightelf:` | <img src="https://github.com/user-attachments/assets/cef15c36-7950-4ab2-8126-e95ae4388873" width="32" /> |
+| `:femaleorc:` | <img src="https://github.com/user-attachments/assets/2cf13f08-004b-4d52-9794-dae45d421c66" width="32" /> |
+| `:femaletauren:` | <img src="https://github.com/user-attachments/assets/044973a5-fa35-4d62-8cd6-dcdf01368b9a" width="32" /> |
+| `:femaletroll:` | <img src="https://github.com/user-attachments/assets/3c5eeaa0-1ce9-4e63-b37b-6f1fe47abee2" width="32" /> |
+| `:femaleundead:` | <img src="https://github.com/user-attachments/assets/f6fef967-a039-4170-b840-994718edb3f0" width="32" /> |
+| `:gryphon:` | <img src="https://github.com/user-attachments/assets/4afb8b33-1b59-459e-aeb1-a06a73a752d2" width="32" /> |
+| `:hogger:` | <img src="https://github.com/user-attachments/assets/096815c4-4a3e-46f8-b438-52fc75f7fa93" width="32" /> |
+| `:horde:` | <img src="https://github.com/user-attachments/assets/74ecc7ae-0f64-4d21-bc69-8be3c528b018" width="32" /> |
+| `:hunter:` | <img src="https://github.com/user-attachments/assets/76456d7a-0271-468e-98db-a8a0ee231a17" width="32" /> |
+| `:kekdwarf:` | <img src="https://github.com/user-attachments/assets/b39f793a-0e7d-4538-875d-3e76a3f34160" width="32" /> |
+| `:mage:` | <img src="https://github.com/user-attachments/assets/94e8fe1a-1022-4160-a0a9-f8f471f68778" width="32" /> |
+| `:maledwarf:` | <img src="https://github.com/user-attachments/assets/6b250927-e3bc-4894-b1fc-9ffdfd3d4e64" width="32" /> |
+| `:malegnome:` | <img src="https://github.com/user-attachments/assets/d1cd0b63-59fc-4071-8a1f-caf45c0b9dbc" width="32" /> |
+| `:malehuman:` | <img src="https://github.com/user-attachments/assets/218d81cd-e638-4162-b032-e9e1dd6a7feb" width="32" /> |
+| `:malenightelf:` | <img src="https://github.com/user-attachments/assets/34a18fdf-44d9-4294-8183-e7120160e9b6" width="32" /> |
+| `:malenightelf2:` | <img src="https://github.com/user-attachments/assets/a185809a-6076-44f0-85aa-8b1eee0a7145" width="32" /> |
+| `:maleorc:` | <img src="https://github.com/user-attachments/assets/909742e9-e9ee-475a-b6ae-92343070e0de" width="32" /> |
+| `:maletauren:` | <img src="https://github.com/user-attachments/assets/01d7c457-7b96-4990-9f02-b3ac77f43b74" width="32" /> |
+| `:maletroll:` | <img src="https://github.com/user-attachments/assets/f582f94c-d1c5-496e-9ef8-68afb898f6d8" width="32" /> |
+| `:maleundead:` | <img src="https://github.com/user-attachments/assets/3b676e1d-bb97-42cb-99e7-8ec65e4377de" width="32" /> |
+| `:metzen:` | <img src="https://github.com/user-attachments/assets/0dd9646f-78d8-4a6e-ac1d-d0f6aa44d690" width="32" /> |
+| `:moonkin:` | <img src="https://github.com/user-attachments/assets/97450309-b1e1-4c8c-989c-119df3ff13d4" width="32" /> |
+| `:omegawow:` | <img src="https://github.com/user-attachments/assets/a20c9d31-4795-4e27-8fe1-a1a8e458401f" width="32" /> |
+| `:paladin:` | <img src="https://github.com/user-attachments/assets/4aceba2c-9f54-4f76-bfac-1d0c2fe6f285" width="32" /> |
+| `:priest:` | <img src="https://github.com/user-attachments/assets/3a5575fe-b57c-4427-99d0-4c7162f59584" width="32" /> |
+| `:rogue:` | <img src="https://github.com/user-attachments/assets/65238370-ba05-44d2-8a8d-ae80a403237f" width="32" /> |
+| `:samwise:` | <img src="https://github.com/user-attachments/assets/aede386c-de9c-48a2-89e9-fa3266b5002b" width="32" /> |
+| `:shaman:` | <img src="https://github.com/user-attachments/assets/3fa9b5ed-b0fb-4d33-8d10-288f6568c809" width="32" /> |
+| `:teldrachad:` | <img src="https://github.com/user-attachments/assets/61cbec52-d353-4ba2-8d56-9f9953b90697" width="32" /> |
+| `:uwutuskarr:` | <img src="https://github.com/user-attachments/assets/4f46286a-78cb-47eb-830a-d553b3fb45f1" width="32" /> |
+| `:warcraft:` | <img src="https://github.com/user-attachments/assets/307da5ae-bfad-4d89-8511-21f7016a83a6" width="32" /> |
+| `:warlock:` | <img src="https://github.com/user-attachments/assets/8432c9ac-7d02-4dbe-abf1-fc899254fe08" width="32" /> |
+| `:warrior:` | <img src="https://github.com/user-attachments/assets/a76c6f6b-9b3f-4064-9d60-b3ea348b3885" width="32" /> |
 
 ## Gnome Emojis
 
 | Code | Preview |
 |------|---------|
-| `:gnomebatman:` | IMG |
-| `:gnomebender:` | IMG |
-| `:gnomecandle:` | IMG |
-| `:gnomecandleman:` | IMG |
-| `:gnomechad:` | IMG |
-| `:gnomeclown:` | IMG |
-| `:gnomedevil:` | IMG |
-| `:gnomedracula:` | IMG |
-| `:gnomedragonborn:` | IMG |
-| `:gnomedruid:` | IMG |
-| `:gnomeexistential:` | IMG |
-| `:gnomeexoticmonk:` | IMG |
-| `:gnomefelguard:` | IMG |
-| `:gnomeforsaken:` | IMG |
-| `:gnomegarithos:` | IMG |
-| `:gnomegoblin:` | IMG |
-| `:gnomegodfather:` | IMG |
-| `:gnomegon:` | IMG |
-| `:gnomeguts:` | IMG |
-| `:gnomehoplite:` | IMG |
-| `:gnomeillidan:` | IMG |
-| `:gnomeironman:` | IMG |
-| `:gnomejoker:` | IMG |
-| `:gnomejudge:` | IMG |
-| `:gnomekratos:` | IMG |
-| `:gnomeloki:` | IMG |
-| `:gnomemage:` | IMG |
-| `:gnomemanhattan:` | IMG |
-| `:gnomemario:` | IMG |
-| `:gnomemickey:` | IMG |
-| `:gnomemonk:` | IMG |
-| `:gnomenaga:` | IMG |
-| `:gnomeninja:` | IMG |
-| `:gnomeorc:` | IMG |
-| `:gnomeorochimaru:` | IMG |
-| `:gnomeshaman:` | IMG |
-| `:gnomesonic:` | IMG |
-| `:gnomespace:` | IMG |
-| `:gnomesquidward:` | IMG |
-| `:gnometemplar:` | IMG |
-| `:gnomethor:` | IMG |
-| `:gnometoji:` | IMG |
-| `:gnomeultramarine:` | IMG |
-| `:gnomewitcher:` | IMG |
-| `:gnomewolverine:` | IMG |
+| `:gnomebatman:` | ![GnomeBatman](https://github.com/user-attachments/assets/fbdad725-ce1c-470c-8a46-89ef198fb554)
+ |
+| `:gnomebender:` | ![GnomeBender](https://github.com/user-attachments/assets/2caa0838-5ac8-4d86-acc5-169a32075aa2)
+ |
+| `:gnomecandle:` | ![GnomeCandle](https://github.com/user-attachments/assets/57088165-456c-4ffe-9710-3ca9c7fb946b)
+ |
+| `:gnomecandleman:` | ![GnomeCandleman](https://github.com/user-attachments/assets/02b9d4aa-5bbb-4e20-9df0-4e195d127dd2)
+ |
+| `:gnomechad:` | ![GnomeChad](https://github.com/user-attachments/assets/0654cde2-9e58-4d24-bd52-70d9c1063b71)
+ |
+| `:gnomeclown:` | ![GnomeClown](https://github.com/user-attachments/assets/3453dc32-f6a1-46b7-b3c5-2f055a2cc2bb)
+ |
+| `:gnomedevil:` |  |
+| `:gnomedracula:` |  |
+| `:gnomedragonborn:` |  |
+| `:gnomedruid:` |  |
+| `:gnomeexistential:` |  |
+| `:gnomeexoticmonk:` |  |
+| `:gnomefelguard:` |  |
+| `:gnomeforsaken:` |  |
+| `:gnomegarithos:` |  |
+| `:gnomegoblin:` |  |
+| `:gnomegodfather:` |  |
+| `:gnomegon:` |  |
+| `:gnomeguts:` |  |
+| `:gnomehoplite:` |  |
+| `:gnomeillidan:` |  |
+| `:gnomeironman:` |  |
+| `:gnomejoker:` |  |
+| `:gnomejudge:` |  |
+| `:gnomekratos:` |  |
+| `:gnomeloki:` |  |
+| `:gnomemage:` |  |
+| `:gnomemanhattan:` |  |
+| `:gnomemario:` |  |
+| `:gnomemickey:` |  |
+| `:gnomemonk:` |  |
+| `:gnomenaga:` |  |
+| `:gnomeninja:` |  |
+| `:gnomeorc:` |  |
+| `:gnomeorochimaru:` |  |
+| `:gnomeshaman:` |  |
+| `:gnomesonic:` |  |
+| `:gnomespace:` |  |
+| `:gnomesquidward:` |  |
+| `:gnometemplar:` |  |
+| `:gnomethor:` |  |
+| `:gnometoji:` |  |
+| `:gnomeultramarine:` |  |
+| `:gnomewitcher:` |  |
+| `:gnomewolverine:` |  |
 
 ## Pony Emojis
 
 | Code | Preview |
 |------|---------|
-| `:ponysylvy:` | IMG |
-| `:ponywhitemane:` | IMG |
-| `:ponygarithos:` | IMG |
+| `:ponysylvy:` | <img src="https://github.com/user-attachments/assets/f20b7711-b20c-458e-b3ee-bb05398593b1" width="32" /> |
+| `:ponywhitemane:` | <img src="https://github.com/user-attachments/assets/c1adf008-bde8-4170-b0db-a675cb7a7872" width="32" /> |
+| `:ponygarithos:` | <img src="https://github.com/user-attachments/assets/865b91b4-51cb-478c-9148-4f2d10e5fc80" width="32" /> |
 
 ## Text Emoticons
 
