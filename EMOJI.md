@@ -118,18 +118,12 @@ Simply type the emoji code (e.g. `:smile:`) in chat, and it will be converted to
 
 | Code | Preview |
 |------|---------|
-| `:gnomebatman:` | ![GnomeBatman](https://github.com/user-attachments/assets/fbdad725-ce1c-470c-8a46-89ef198fb554)
- |
-| `:gnomebender:` | ![GnomeBender](https://github.com/user-attachments/assets/2caa0838-5ac8-4d86-acc5-169a32075aa2)
- |
-| `:gnomecandle:` | ![GnomeCandle](https://github.com/user-attachments/assets/57088165-456c-4ffe-9710-3ca9c7fb946b)
- |
-| `:gnomecandleman:` | ![GnomeCandleman](https://github.com/user-attachments/assets/02b9d4aa-5bbb-4e20-9df0-4e195d127dd2)
- |
-| `:gnomechad:` | ![GnomeChad](https://github.com/user-attachments/assets/0654cde2-9e58-4d24-bd52-70d9c1063b71)
- |
-| `:gnomeclown:` | ![GnomeClown](https://github.com/user-attachments/assets/3453dc32-f6a1-46b7-b3c5-2f055a2cc2bb)
- |
+| `:gnomebatman:` | <img src="https://github.com/user-attachments/assets/fbdad725-ce1c-470c-8a46-89ef198fb554" width="32" /> |
+| `:gnomebender:` | <img src="https://github.com/user-attachments/assets/2caa0838-5ac8-4d86-acc5-169a32075aa2" width="32" /> |
+| `:gnomecandle:` | <img src="https://github.com/user-attachments/assets/57088165-456c-4ffe-9710-3ca9c7fb946b" width="32" /> |
+| `:gnomecandleman:` | <img src="https://github.com/user-attachments/assets/02b9d4aa-5bbb-4e20-9df0-4e195d127dd2" width="32" /> |
+| `:gnomechad:` | <img src="https://github.com/user-attachments/assets/0654cde2-9e58-4d24-bd52-70d9c1063b71" width="32" /> |
+| `:gnomeclown:` | <img src="https://github.com/user-attachments/assets/3453dc32-f6a1-46b7-b3c5-2f055a2cc2bb" width="32" /> |
 | `:gnomedevil:` |  |
 | `:gnomedracula:` |  |
 | `:gnomedragonborn:` |  |
