@@ -140,13 +140,12 @@ end
 function addon:SetupDefaultEmojis()
     local x = self:GetEmojiSizeString()
 
-    -- List of emojis
+    -- Normal Emojis
     self:AddSmiley(":angry:", self:TextureString(M..[[Emojis\Angry.tga]], x))
     self:AddSmiley(":blush:", self:TextureString(M..[[Emojis\Blush.tga]], x))
     self:AddSmiley(":broken_heart:", self:TextureString(M..[[Emojis\BrokenHeart.tga]], x))
     self:AddSmiley(":call_me:", self:TextureString(M..[[Emojis\CallMe.tga]], x))
     self:AddSmiley(":cry:", self:TextureString(M..[[Emojis\Cry.tga]], x))
-    self:AddSmiley(":epog:", self:TextureString(M..[[Emojis\Epog.tga]], x))
     self:AddSmiley(":facepalm:", self:TextureString(M..[[Emojis\Facepalm.tga]], x))
     self:AddSmiley(":grin:", self:TextureString(M..[[Emojis\Grin.tga]], x))
     self:AddSmiley(":heart:", self:TextureString(M..[[Emojis\Heart.tga]], x))
@@ -175,6 +174,61 @@ function addon:SetupDefaultEmojis()
     self:AddSmiley(":thumbs_up:", self:TextureString(M..[[Emojis\ThumbsUp.tga]], x))
     self:AddSmiley(":wink:", self:TextureString(M..[[Emojis\Wink.tga]], x))
     self:AddSmiley(":zzz:", self:TextureString(M..[[Emojis\ZZZ.tga]], x))
+
+    -- Epoch Emojis
+    self:AddSmiley(":epog:", self:TextureString(M..[[EpochEmojis\Epog.tga]], x))
+
+    -- Gnome Emojis
+    self:AddSmiley(":gnomebatman:", self:TextureString(M..[[GnomeEmojis\GnomeBatman.tga]], x))
+    self:AddSmiley(":gnomebender:", self:TextureString(M..[[GnomeEmojis\GnomeBender.tga]], x))
+    self:AddSmiley(":gnomecandle:", self:TextureString(M..[[GnomeEmojis\GnomeCandle.tga]], x))
+    self:AddSmiley(":gnomecandleman:", self:TextureString(M..[[GnomeEmojis\GnomeCandleman.tga]], x))
+    self:AddSmiley(":gnomechad:", self:TextureString(M..[[GnomeEmojis\GnomeChad.tga]], x))
+    self:AddSmiley(":gnomeclown:", self:TextureString(M..[[GnomeEmojis\GnomeClown.tga]], x))
+    self:AddSmiley(":gnomedevil:", self:TextureString(M..[[GnomeEmojis\GnomeDevil.tga]], x))
+    self:AddSmiley(":gnomedracula:", self:TextureString(M..[[GnomeEmojis\GnomeDracula.tga]], x))
+    self:AddSmiley(":gnomedragonborn:", self:TextureString(M..[[GnomeEmojis\GnomeDragonborn.tga]], x))
+    self:AddSmiley(":gnomedruid:", self:TextureString(M..[[GnomeEmojis\GnomeDruid.tga]], x))
+    self:AddSmiley(":gnomeexistential:", self:TextureString(M..[[GnomeEmojis\GnomeExistential.tga]], x))
+    self:AddSmiley(":gnomeexoticmonk:", self:TextureString(M..[[GnomeEmojis\GnomeExoticMonk.tga]], x))
+    self:AddSmiley(":gnomefelguard:", self:TextureString(M..[[GnomeEmojis\GnomeFelguard.tga]], x))
+    self:AddSmiley(":gnomeforsaken:", self:TextureString(M..[[GnomeEmojis\GnomeForsaken.tga]], x))
+    self:AddSmiley(":gnomegarithos:", self:TextureString(M..[[GnomeEmojis\GnomeGarithos.tga]], x))
+    self:AddSmiley(":gnomegoblin:", self:TextureString(M..[[GnomeEmojis\GnomeGoblin.tga]], x))
+    self:AddSmiley(":gnomegodfather:", self:TextureString(M..[[GnomeEmojis\GnomeGodfather.tga]], x))
+    self:AddSmiley(":gnomegon:", self:TextureString(M..[[GnomeEmojis\GnomeGon.tga]], x))
+    self:AddSmiley(":gnomeguts:", self:TextureString(M..[[GnomeEmojis\GnomeGuts.tga]], x))
+    self:AddSmiley(":gnomehoplite:", self:TextureString(M..[[GnomeEmojis\GnomeHoplite.tga]], x))
+    self:AddSmiley(":gnomeillidan:", self:TextureString(M..[[GnomeEmojis\GnomeIllidan.tga]], x))
+    self:AddSmiley(":gnomeironman:", self:TextureString(M..[[GnomeEmojis\GnomeIronman.tga]], x))
+    self:AddSmiley(":gnomejoker:", self:TextureString(M..[[GnomeEmojis\GnomeJoker.tga]], x))
+    self:AddSmiley(":gnomejudge:", self:TextureString(M..[[GnomeEmojis\GnomeJudge.tga]], x))
+    self:AddSmiley(":gnomekratos:", self:TextureString(M..[[GnomeEmojis\GnomeKratos.tga]], x))
+    self:AddSmiley(":gnomeloki:", self:TextureString(M..[[GnomeEmojis\GnomeLoki.tga]], x))
+    self:AddSmiley(":gnomemage:", self:TextureString(M..[[GnomeEmojis\GnomeMage.tga]], x))
+    self:AddSmiley(":gnomemanhattan:", self:TextureString(M..[[GnomeEmojis\GnomeManhattan.tga]], x))
+    self:AddSmiley(":gnomemario:", self:TextureString(M..[[GnomeEmojis\GnomeMario.tga]], x))
+    self:AddSmiley(":gnomemickey:", self:TextureString(M..[[GnomeEmojis\GnomeMickey.tga]], x))
+    self:AddSmiley(":gnomemonk:", self:TextureString(M..[[GnomeEmojis\GnomeMonk.tga]], x))
+    self:AddSmiley(":gnomenaga:", self:TextureString(M..[[GnomeEmojis\GnomeNaga.tga]], x))
+    self:AddSmiley(":gnomeninja:", self:TextureString(M..[[GnomeEmojis\GnomeNinja.tga]], x))
+    self:AddSmiley(":gnomeorc:", self:TextureString(M..[[GnomeEmojis\GnomeOrc.tga]], x))
+    self:AddSmiley(":gnomeorochimaru:", self:TextureString(M..[[GnomeEmojis\GnomeOrochimaru.tga]], x))
+    self:AddSmiley(":gnomeshaman:", self:TextureString(M..[[GnomeEmojis\GnomeShaman.tga]], x))
+    self:AddSmiley(":gnomesonic:", self:TextureString(M..[[GnomeEmojis\GnomeSonic.tga]], x))
+    self:AddSmiley(":gnomespace:", self:TextureString(M..[[GnomeEmojis\GnomeSpace.tga]], x))
+    self:AddSmiley(":gnomesquidward:", self:TextureString(M..[[GnomeEmojis\GnomeSquidward.tga]], x))
+    self:AddSmiley(":gnometemplar:", self:TextureString(M..[[GnomeEmojis\GnomeTemplar.tga]], x))
+    self:AddSmiley(":gnomethor:", self:TextureString(M..[[GnomeEmojis\GnomeThor.tga]], x))
+    self:AddSmiley(":gnometoji:", self:TextureString(M..[[GnomeEmojis\GnomeToji.tga]], x))
+    self:AddSmiley(":gnomeultramarine:", self:TextureString(M..[[GnomeEmojis\GnomeUltramarine.tga]], x))
+    self:AddSmiley(":gnomewitcher:", self:TextureString(M..[[GnomeEmojis\GnomeWitcher.tga]], x))
+    self:AddSmiley(":gnomewolverine:", self:TextureString(M..[[GnomeEmojis\GnomeWolverine.tga]], x))
+
+    -- Pony Emojis
+    self:AddSmiley(":ponysylvy:", self:TextureString(M..[[PonyEmojis\PonySylvy.tga]], x))
+    self:AddSmiley(":ponywhitemane:", self:TextureString(M..[[PonyEmojis\PonyWhitemane.tga]], x))
+    self:AddSmiley(":ponygarithos:", self:TextureString(M..[[PonyEmojis\PonyGarithos.tga]], x))
 
     -- Only add text emoticons if enabled
     if ChatEmojisDB.textEmotes then
@@ -456,7 +510,7 @@ local localversion  = tonumber(major*10000 + minor*100 + fix)
 local remoteversion = tonumber(gpiupdateavailable) or 0
 local loginchannels = { "BATTLEGROUND", "RAID", "GUILD", "PARTY" }
 local groupchannels = { "BATTLEGROUND", "RAID", "PARTY" }
-  
+
 gpiupdater = CreateFrame("Frame")
 gpiupdater:RegisterEvent("CHAT_MSG_ADDON")
 gpiupdater:RegisterEvent("PLAYER_ENTERING_WORLD")
