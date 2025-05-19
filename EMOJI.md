@@ -179,28 +179,24 @@ When the "Text Emoticons" option is enabled, these text emoticons will be automa
 
 | Text | Converts to |
 |------|-------------|
-| `>:(` | :rage: |
-| `:$` | :blush: |
-| `<\3` | :broken_heart: |
-| `:')` / `;')` | :joy: |
-| `,,!,,` | :middle_finger: |
-| `D:<` | :rage: |
-| `:o3` | :scream_cat: |
-| `XP` | :stuck_out_tongue_closed_eyes: |
-| `8-)` / `8)` | :sunglasses: |
-| `:+1:` | :thumbs_up: |
-| `:;:` | :semi_colon: |
-| `;o;` | :sob: |
-| `:-@` / `:@` | :angry: |
-| `:-)` / `:)` | :smile: |
-| `:D` / `:-D` / `;-D` / `;D` / `=D` / `xD` / `XD` | :grin: |
-| `:-(` / `:(` | :slight_frown: |
-| `:o` / `:-o` / `:-O` / `:O` / `:-0` | :open_mouth: |
-| `:P` / `:-P` / `:p` / `:-p` / `=P` / `=p` | :stuck_out_tongue: |
-| `;-p` / `;p` / `;P` / `;-P` | :stuck_out_tongue_closed_eyes: |
-| `;-)` / `;)` | :wink: |
-| `:S` / `:-S` | :smirk: |
-| `:,(` / `:,-(` / `:'(` / `:'-(` | :cry: |
-| `:F` | :middle_finger: |
-| `<3` | :heart: |
-| `</3` | :broken_heart: |
+| `>:(` / `D:<` | ![Rage](https://github.com/user-attachments/assets/e56ad050-19eb-40d9-8a6f-ef569a0a4b00) |
+| `:$` | ![Blush](https://github.com/user-attachments/assets/afff7359-44cd-4c5a-9e10-8039367ae2b3) |
+| `:')` / `;')` | ![Joy](https://github.com/user-attachments/assets/dbb03d65-11b0-44c5-a862-82ff8050edeb) |
+| `,,!,,` / `:F` | ![MiddleFinger](https://github.com/user-attachments/assets/8fe94290-aa98-4d8b-8506-5a31b8308c38) |
+| `:o3` | ![ScreamCat](https://github.com/user-attachments/assets/3cc6c378-be21-4114-93f7-149f1d0ebbbe) |
+| `8-)` / `8)` | ![Sunglasses](https://github.com/user-attachments/assets/57dfa5a4-e423-49c8-9014-ad0b938014ec) |
+| `:+1:` | ![ThumbsUp](https://github.com/user-attachments/assets/75e29522-48f8-415c-83b1-4aee020832fb) |
+| `:;:` | ![SemiColon](https://github.com/user-attachments/assets/eb086977-82aa-487c-a345-1461f4841b55) |
+| `;o;` | ![Sob](https://github.com/user-attachments/assets/da17d2d0-aca1-456c-b668-0d4b8cbed107) |
+| `:-@` / `:@` | ![Angry](https://github.com/user-attachments/assets/ab9b0d9f-4c15-4641-bc2b-96610ac8365d) |
+| `:-)` / `:)` | ![Smile](https://github.com/user-attachments/assets/994e53b9-79db-470a-95cc-5720dab7e36a) |
+| `:D` / `:-D` / `;-D` / `;D` / `=D` / `xD` / `XD` | ![Grin](https://github.com/user-attachments/assets/ad4b900a-a9ab-461e-8332-e649f63e5d2b) |
+| `:-(` / `:(` | ![SlightFrown](https://github.com/user-attachments/assets/e289001e-90c7-48db-a5ae-298ebfa5e947) |
+| `:o` / `:-o` / `:-O` / `:O` / `:-0` | ![OpenMouth](https://github.com/user-attachments/assets/8060d42c-a994-4d0a-9a31-9b781a9f9a5f) |
+| `:P` / `:-P` / `:p` / `:-p` / `=P` / `=p` | ![StuckOutTongue](https://github.com/user-attachments/assets/c4201260-49db-4a9d-8973-44b2ffe7eb13) |
+| `;-p` / `;p` / `;P` / `;-P` / `XP` | ![StuckOutTongueClosedEyes](https://github.com/user-attachments/assets/3b38b006-63d2-4627-a92c-ae7a2c9e822a) |
+| `;-)` / `;)` | ![Wink](https://github.com/user-attachments/assets/e8a047e1-5a94-47b6-a6be-5d620ef4b886) |
+| `:S` / `:-S` | ![Smirk](https://github.com/user-attachments/assets/7f1474a4-ab2b-4674-a349-649ec407509b) |
+| `:,(` / `:,-(` / `:'(` / `:'-(` | ![Cry](https://github.com/user-attachments/assets/8d5f305f-8857-4f33-8b11-674b62e1ab9c) |
+| `<3` | ![Heart](https://github.com/user-attachments/assets/00ad6d46-97f3-4259-9379-8d6e871001f4) |
+| `</3` | ![BrokenHeart](https://github.com/user-attachments/assets/3f775aae-cfb4-41c6-b866-c90cd8525d65) |
