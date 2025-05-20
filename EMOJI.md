@@ -79,7 +79,7 @@ Simply type the emoji code (e.g. `:smile:`) in chat, and it will be converted to
 | `:peepoalliance:` | <img src="https://github.com/user-attachments/assets/b5cd1e1a-4928-41a8-95f1-95bb127f9e7f" width="32" /> |
 | `:peepohorde:` | <img src="https://github.com/user-attachments/assets/d7aa51b3-5c96-4fed-9991-763835a6f5f1" width="32" /> |
 | `:pepepanties:` | <img src="https://github.com/user-attachments/assets/74601ff7-7663-42f1-bfa4-1a5d016a827a" width="32" /> |
-| `:pepepanties:` | <img src="https://github.com/user-attachments/assets/4768f18e-e3a2-42cb-9ab5-b3be121e85b7" width="32" /> |
+| `:pepewarlock:` | <img src="https://github.com/user-attachments/assets/4768f18e-e3a2-42cb-9ab5-b3be121e85b7" width="32" /> |
 
 ## WoW Emojis
 
