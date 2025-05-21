@@ -5,4 +5,7 @@
 ## Version: 1.0.0
 ## SavedVariables: ChatEmojisDB
 
-Core.lua
+core.lua
+emoji_data.lua
+settings.lua
+version_checker.lua
