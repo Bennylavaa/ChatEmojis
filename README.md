@@ -10,8 +10,31 @@ Standalone Chat Emoji addon for 3.3.5
 4. Copy "ChatEmojis" into Wow-Directory\Interface\AddOns
 5. Restart Wow
 
-## ChatEmojis Reference Guide
-https://github.com/Bennylavaa/ChatEmojis/blob/main/EMOJI.md
+## Features
+
+#### Emoji Browser
+
+![image](https://github.com/user-attachments/assets/29953cdc-c216-4489-b354-a85f536f6221)
+
+A searchable window where you can graphically see and use emojis in which exist in the addon. 
+
+#### Favorites
+
+![image](https://github.com/user-attachments/assets/554dbeda-d7ab-4986-821c-e42a1b6858e7)
+
+By right clicking on an emoji you can add or remove it from your favorites list. 
+
+#### Quick Access
+
+![image](https://github.com/user-attachments/assets/ff4e761a-150d-41ac-abf2-34754f3e312d)
+
+You can quickly access the Emoji Browser by clicking the smiley face icon next to the editbox.
+
+#### Tab Auto Fill
+
+![image](https://github.com/user-attachments/assets/9b5783e5-a84f-4074-9aeb-3935603c9a88)
+
+You can cycle through emojis that meet the text requirements you have entered, also doubles as a auto complete. 
 
 ## Contribute
 
