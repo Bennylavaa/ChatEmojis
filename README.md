@@ -34,7 +34,7 @@ You can quickly access the Emoji Browser by clicking the smiley face icon next t
 
 ![image](https://github.com/user-attachments/assets/9d1dd59a-b1d0-4acc-978f-b6d37174cbf7)
 
-Auto fill by hitting tab in the editbox.
+You can cycle through emojis that meet the text requirements you have entered, also doubles as a auto complete. 
 
 #### Chat Bubble Emojis
 
@@ -47,8 +47,6 @@ See emojis in chat bubbles.
 ![image](https://github.com/user-attachments/assets/20faa6f6-0be3-46a0-b8eb-157e1aad0fd0)
 
 Customize emoji sizes and more. 
-
-You can cycle through emojis that meet the text requirements you have entered, also doubles as a auto complete. 
 
 ## Contribute
 
