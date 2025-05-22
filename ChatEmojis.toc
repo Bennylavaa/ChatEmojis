@@ -2,10 +2,13 @@
 ## Title: |cFF00CCFFChat|r|cFFFF6600Emojis|r
 ## Notes: Adds emoji support to chat
 ## Author: Bennylavaa
-## Version: 1.0.0
+## Version: 1.0.1
 ## SavedVariables: ChatEmojisDB
 
-core.lua
-emoji_data.lua
+ChatEmojis.lua
+data.lua
+bubble.lua
+browser.lua
+autocomplete.lua
 settings.lua
-version_checker.lua
+checker.lua
