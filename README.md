@@ -1,7 +1,7 @@
 # ChatEmojis
 Standalone Chat Emoji addon for 3.3.5
 
-![image](https://github.com/user-attachments/assets/60d4a3fa-d433-4670-b620-e885520512ba)
+![image](https://github.com/user-attachments/assets/0a6eb773-1e03-4024-ab45-d8955a82c135)
 
 ### Installation
 1. Download **[Latest Version](https://github.com/Bennylavaa/ChatEmojis/archive/master.zip)**
@@ -32,7 +32,21 @@ You can quickly access the Emoji Browser by clicking the smiley face icon next t
 
 #### Tab Auto Fill
 
-![image](https://github.com/user-attachments/assets/9b5783e5-a84f-4074-9aeb-3935603c9a88)
+![image](https://github.com/user-attachments/assets/9d1dd59a-b1d0-4acc-978f-b6d37174cbf7)
+
+Auto fill by hitting tab in the editbox.
+
+#### Chat Bubble Emojis
+
+![image](https://github.com/user-attachments/assets/c9c0fad6-068d-4d53-a2c3-7cf30b445f6c)
+
+See emojis in chat bubbles. 
+
+#### Settings Window
+
+![image](https://github.com/user-attachments/assets/20faa6f6-0be3-46a0-b8eb-157e1aad0fd0)
+
+Customize emoji sizes and more. 
 
 You can cycle through emojis that meet the text requirements you have entered, also doubles as a auto complete. 
 
