@@ -55,3 +55,5 @@ If you wish to add more emojis, feel free to contribute and send [Pull Requests]
 All Emoji images need to be 64x64 and preferably blp format which you can get a png to blp converter from here: https://www.wowinterface.com/downloads/info22128-BLPNGConverter.html
 
 Once the image has been made populate the [data.lua](https://github.com/Bennylavaa/ChatEmojis/blob/main/data.lua) with the emoji info, please follow the format within as well as the alphabetical order.
+
+**Note: Make sure to test your changes before opening a pull request and make sure your images work as expected**
