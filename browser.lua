@@ -259,10 +259,26 @@ function addon:UpdateEmojiDisplay()
     end
 
     if emojiContainer then
+        local children = { emojiContainer:GetChildren() }
+        for _, child in ipairs(children) do
+            if child:GetObjectType() == "Button" then
+                child:SetScript("OnClick", nil)
+                child:SetScript("OnEnter", nil)
+                child:SetScript("OnLeave", nil)
+                child:UnregisterAllEvents()
+            end
+            child:Hide()
+            child:SetParent(nil)
+        end
+
         emojiContainer:Hide()
+        emojiContainer:SetParent(nil)
+        emojiContainer = nil
+
+        collectgarbage("collect")
     end
 
-    emojiContainer = CreateFrame("Frame", "ChatEmojisContainer", scrollFrame)
+    emojiContainer = CreateFrame("Frame", nil, scrollFrame)
     emojiContainer:SetSize(scrollFrame:GetWidth(), 500)
     scrollFrame:SetScrollChild(emojiContainer)
 
@@ -299,7 +315,6 @@ function addon:UpdateEmojiDisplay()
 
         local availableWidth = containerWidth - (padding * 2)
         local maxButtonsPerRow = math.floor((availableWidth + padding) / (buttonSize + padding))
-
         local buttonsPerRow = math.min(maxButtonsPerRow, MAX_EMOJIS_PER_ROW)
 
         if buttonsPerRow < 5 then buttonsPerRow = 5 end
@@ -312,7 +327,7 @@ function addon:UpdateEmojiDisplay()
         local rowCount = 1
 
         for i, emoji in ipairs(displayedEmojis) do
-            local button = CreateFrame("Button", "ChatEmojisButton"..i, emojiContainer)
+            local button = CreateFrame("Button", nil, emojiContainer)
             button:SetSize(buttonSize, buttonSize)
 
             local col = (i - 1) % buttonsPerRow
