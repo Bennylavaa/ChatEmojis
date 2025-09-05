@@ -1,6 +1,8 @@
 # ChatEmojis
 Standalone Chat Emoji addon for 3.3.5
 
+NOTE: I am aware this can be resource intensive. 
+
 ![image](https://github.com/user-attachments/assets/0a6eb773-1e03-4024-ab45-d8955a82c135)
 
 ### Installation
