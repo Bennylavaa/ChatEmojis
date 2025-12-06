@@ -202,69 +202,107 @@ function addon:Initialize()
             self:UnregisterEvent("PLAYER_ENTERING_WORLD")
         end
     end)
+end
 
--- Add button to game menu (only if ElvUI is not loaded)
-    if not IsAddOnLoaded("ElvUI") then
-        if GameMenuFrame then
-            local button = CreateFrame("Button", "GameMenuButtonEmojiBrowser", GameMenuFrame, "GameMenuButtonTemplate")
-            button:SetText("|cFF00CCFFEmoji|r |cFFFF6600Browser|r")
+function addon:CreateGameMenuButton()
+    if not GameMenuFrame then
+        return false
+    end
 
-            local macrosButton = GameMenuButtonMacros
-            if macrosButton then
-                button:SetSize(macrosButton:GetSize())
-                button:SetPoint("TOP", macrosButton, "BOTTOM", 0, -1)
+    if _G["GameMenuButtonEmojiBrowser"] then
+        return true
+    end
 
-                local logoutButton = GameMenuButtonLogout
-                if logoutButton then
-                    logoutButton:ClearAllPoints()
-                    logoutButton:SetPoint("TOP", button, "BOTTOM", 0, -1)
+    local button = CreateFrame("Button", "GameMenuButtonEmojiBrowser", GameMenuFrame, "GameMenuButtonTemplate")
+    button:SetText("|cFF00CCFFEmoji|r |cFFFF6600Browser|r")
 
-                    local exitButton = GameMenuButtonExitGame or GameMenuButtonQuit
-                    if exitButton and exitButton ~= logoutButton then
-                        exitButton:ClearAllPoints()
-                        exitButton:SetPoint("TOP", logoutButton, "BOTTOM", 0, -1)
-                    end
-                end
-            else
-                local width, height = 0, 0
-                local referenceButton
+    -- List of known addon buttons that might exist
+    local addonButtonNames = {
+        "ElvUI_MenuButton",
+        "GameMenuButtonRatings",
+        "GameMenuButtonAddOns"
+    }
 
-                for _, btnName in ipairs({"GameMenuButtonOptions", "GameMenuButtonUIOptions", "GameMenuButtonKeybindings", "GameMenuButtonLogout"}) do
-                    referenceButton = _G[btnName]
-                    if referenceButton then
-                        width = referenceButton:GetWidth()
-                        height = referenceButton:GetHeight()
-                        break
-                    end
-                end
+    -- Find the last (visually lowest) addon button that exists
+    local lowestAddonButton = nil
+    local lowestY = math.huge
 
-                if width > 0 and height > 0 then
-                    button:SetSize(width, height)
-                else
-                    button:SetSize(144, 16)
-                end
-
-                local logoutButton = GameMenuButtonLogout
-                if logoutButton then
-                    button:SetPoint("BOTTOM", logoutButton, "TOP", 0, 1)
-                else
-                    button:SetPoint("CENTER", GameMenuFrame, "CENTER", 0, -40)
-                end
+    for _, btnName in ipairs(addonButtonNames) do
+        local btn = _G[btnName]
+        if btn and btn:IsVisible() then
+            local _, _, _, _, y = btn:GetPoint()
+            if y and y < lowestY then
+                lowestY = y
+                lowestAddonButton = btn
             end
-
-            button:SetScript("OnClick", function()
-                PlaySound("igMainMenuOption")
-                HideUIPanel(GameMenuFrame)
-                addon:ToggleEmojiBrowser()
-            end)
-
-            GameMenuFrame:SetHeight(GameMenuFrame:GetHeight() + button:GetHeight() + 1)
         end
     end
 
-    -- Print loading message
-    print("|cFF00CCFFChat|r|cFFFF6600Emojis|r: Addon loaded!")
+    local referenceButton = lowestAddonButton or GameMenuButtonMacros
+
+    if referenceButton and referenceButton:IsVisible() then
+        button:SetPoint("TOP", referenceButton, "BOTTOM", 0, -1)
+        button:SetWidth(referenceButton:GetWidth())
+        button:SetHeight(referenceButton:GetHeight())
+    else
+        local width, height = 0, 0
+        for _, btnName in ipairs({"GameMenuButtonOptions", "GameMenuButtonUIOptions", "GameMenuButtonKeybindings", "GameMenuButtonLogout"}) do
+            local refBtn = _G[btnName]
+            if refBtn then
+                width = refBtn:GetWidth()
+                height = refBtn:GetHeight()
+                break
+            end
+        end
+        if width > 0 and height > 0 then
+            button:SetSize(width, height)
+        else
+            button:SetSize(144, 16)
+        end
+
+        local logoutButton = GameMenuButtonLogout
+        if logoutButton then
+            button:SetPoint("BOTTOM", logoutButton, "TOP", 0, 1)
+        else
+            button:SetPoint("CENTER", GameMenuFrame, "CENTER", 0, -40)
+        end
+    end
+
+    local logoutButton = GameMenuButtonLogout
+    if logoutButton then
+        logoutButton:ClearAllPoints()
+        logoutButton:SetPoint("TOP", button, "BOTTOM", 0, -(button:GetHeight() + 1))
+
+        local exitButton = GameMenuButtonExitGame or GameMenuButtonQuit
+        if exitButton and exitButton ~= logoutButton then
+            exitButton:ClearAllPoints()
+            exitButton:SetPoint("TOP", logoutButton, "BOTTOM", 0, -1)
+        end
+    end
+
+    button:SetScript("OnClick", function()
+        PlaySound("igMainMenuOption")
+        HideUIPanel(GameMenuFrame)
+        addon:ToggleEmojiBrowser()
+    end)
+
+    GameMenuFrame:SetHeight(GameMenuFrame:GetHeight() + button:GetHeight() + 25)
+    return true
 end
+
+local setupHookFrame = CreateFrame("Frame")
+setupHookFrame.hooked = false
+setupHookFrame:SetScript("OnUpdate", function(self, elapsed)
+    if GameMenuFrame and not self.hooked then
+        local originalShow = GameMenuFrame:GetScript("OnShow")
+        GameMenuFrame:SetScript("OnShow", function(...)
+            if originalShow then originalShow(...) end
+            addon:CreateGameMenuButton()
+        end)
+        self.hooked = true
+        self:SetScript("OnUpdate", nil)
+    end
+end)
 
 -- Slash commands
 SLASH_CHATEMOJIS1 = "/emoji"
