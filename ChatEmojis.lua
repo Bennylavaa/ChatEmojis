@@ -209,12 +209,20 @@ function addon:CreateGameMenuButton()
         return false
     end
 
-    if _G["GameMenuButtonEmojiBrowser"] then
-        return true
-    end
+    local button = _G["GameMenuButtonEmojiBrowser"]
+    local isNewButton = false
 
-    local button = CreateFrame("Button", "GameMenuButtonEmojiBrowser", GameMenuFrame, "GameMenuButtonTemplate")
-    button:SetText("|cFF00CCFFEmoji|r |cFFFF6600Browser|r")
+    if not button then
+        button = CreateFrame("Button", "GameMenuButtonEmojiBrowser", GameMenuFrame, "GameMenuButtonTemplate")
+        button:SetText("|cFF00CCFFEmoji|r |cFFFF6600Browser|r")
+        isNewButton = true
+
+        button:SetScript("OnClick", function()
+            PlaySound("igMainMenuOption")
+            HideUIPanel(GameMenuFrame)
+            addon:ToggleEmojiBrowser()
+        end)
+    end
 
     -- List of known addon buttons that might exist
     local addonButtonNames = {
@@ -239,6 +247,8 @@ function addon:CreateGameMenuButton()
     end
 
     local referenceButton = lowestAddonButton or GameMenuButtonMacros
+
+    button:ClearAllPoints()
 
     if referenceButton and referenceButton:IsVisible() then
         button:SetPoint("TOP", referenceButton, "BOTTOM", 0, -1)
@@ -280,13 +290,9 @@ function addon:CreateGameMenuButton()
         end
     end
 
-    button:SetScript("OnClick", function()
-        PlaySound("igMainMenuOption")
-        HideUIPanel(GameMenuFrame)
-        addon:ToggleEmojiBrowser()
-    end)
-
-    GameMenuFrame:SetHeight(GameMenuFrame:GetHeight() + button:GetHeight() + 25)
+    if isNewButton then
+        GameMenuFrame:SetHeight(GameMenuFrame:GetHeight() + button:GetHeight() + 25)
+    end
     return true
 end
 
