@@ -1,7 +1,9 @@
 # ChatEmojis
 Standalone Chat Emoji addon for 3.3.5
 
-NOTE: I am aware this can be resource intensive. 
+**NOTE: I no longer play on Project Epoch and this will not recieve any further updates, feel free to fork this repo an continue development.**
+
+I am aware this can be resource intensive. 
 
 ![image](https://github.com/user-attachments/assets/0a6eb773-1e03-4024-ab45-d8955a82c135)
 
